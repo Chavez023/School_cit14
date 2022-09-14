@@ -1,0 +1,16 @@
+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
+
+git remote set-url origin https://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@github.com/Chavez88C/School_cit14.git
+
+
+
+
+
+
+
+
+
+
+
+
+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
